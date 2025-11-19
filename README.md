@@ -20,4 +20,4 @@ While the original paper proposes a **16-point FFT**, this mini-project focuses 
 3. View FFT outputs or waveforms.
 
 ## Reference
-**“Optimised Serial Commutator FFT Architecture in Terms of Multiplexers”** , Fang et al., *IEEE Transactions on Circuits and Systems II*, 2024.
+**“Optimised Serial Commutator FFT Architecture in Terms of Multiplexers”**, Fang et al., *IEEE Transactions on Circuits and Systems II*, 2024.
